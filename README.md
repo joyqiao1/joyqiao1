@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m Jingjing
 - 👀 I’m interested in painting
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science in UCSD
 - 💞️ I’m looking to collaborate on coding
 - 📫 Reach me: j1qiao@ucsd.edu
 
